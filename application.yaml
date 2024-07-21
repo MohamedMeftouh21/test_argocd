@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/MohamedMeftouh21/gitops.git
+    repoURL: https://github.com/MohamedMeftouh21/test_argocd.git
     targetRevision: HEAD
     path: my-app
   destination:
